@@ -1,0 +1,30 @@
+<li>
+					  	<div class="banner-bottom-text">
+					  			<h3>Elevations are the Best practices we have </h3>
+								<ul class="banner-lis-w3ls">
+									<li><i class="fa fa-industry" aria-hidden="true"></i>Technology</li>
+									<li><i class="fa fa-home" aria-hidden="true"></i>Resources</li>
+									<li><i class="fa fa-check-square-o" aria-hidden="true"></i>Solutions</li>
+								</ul>
+					 	</div>
+					  </li>
+					  <li>
+					  	<div class="banner-bottom-text">
+					  		<h3>We offers the best services in the field of civil Contracts</h3>
+							<ul class="banner-lis-w3ls">
+								<li><i class="fa fa-industry" aria-hidden="true"></i>Technology</li>
+								<li><i class="fa fa-home" aria-hidden="true"></i>Resources</li>
+								<li><i class="fa fa-check-square-o" aria-hidden="true"></i>Solutions</li>
+							</ul>
+					 	</div>
+					  </li>
+					  <li>
+					  	<div class="banner-bottom-text">
+					  		<h3>Our Industry is a solid, trusted, accountable partner.</h3>
+							<ul class="banner-lis-w3ls">
+								<li><i class="fa fa-industry" aria-hidden="true"></i>Technology</li>
+								<li><i class="fa fa-home" aria-hidden="true"></i>Resources</li>
+								<li><i class="fa fa-check-square-o" aria-hidden="true"></i>Solutions</li>
+							</ul>
+					 	</div>
+					  </li>		
